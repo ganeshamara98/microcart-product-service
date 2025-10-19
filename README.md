@@ -88,7 +88,8 @@ graph TB
     style A fill:#e8f5e8
     style C fill:#fff3e0
     style E fill:#e1f5fe
-`
+```
+
 ## 🚀 Features
 
 - ✅ **Product Management** - Full CRUD operations for products
